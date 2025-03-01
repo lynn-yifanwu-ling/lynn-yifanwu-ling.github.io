@@ -11,7 +11,7 @@ Hi, my name is **<span style="color: #B57EDC;">Yifan Wu</span>**, written as **<
 
 I am a member of the [Linguistic Meaning (LiMe) Lab](https://lime-lab-cornell.github.io/) under [Prof. Helena Aparicio](https://lime-lab-cornell.github.io/HelenaWebsite/index.html) and the [Computational Psycholinguistics Discussion Group (C.Psyd)](https://c-psyd.github.io/) under [Prof. Maten van Schijndel](https://vansky.github.io/).
 
-I have a mix of random hobbies. Love music :music_keyboard:, dancing :dancer:, being lazy :sleeping:, watching movies :movie_camera: and football games :soccer:. Recently, I’ve taken up skiing :skier: and crocheting :yarn: as new hobbies!
+I have a mix of random hobbies. Love music :musical_keyboard:, dancing :dancer:, being lazy :sleeping:, watching movies :movie_camera: and football games :soccer:. Recently, I’ve taken up skiing :skier: and crocheting :yarn: as new hobbies!
 
 :mailbox_with_mail: Drop me a line and let's chat: [yw2578@cornell.edu](yw2578@cornell.edu).
 
