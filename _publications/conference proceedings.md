@@ -1,7 +1,7 @@
 ---
 title: "Conference Proceedings"
 collection: publications
-permalink: /publications/conference proceedings
+permalink: /publications/conference_proceedings
 type: "publication"
 ---
 
