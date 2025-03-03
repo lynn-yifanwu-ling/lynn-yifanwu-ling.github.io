@@ -1,6 +1,6 @@
 ---
 title: "Conference Proceedings"
-collection: publications
+collection: Publication
 permalink: /publications/conference_proceedings
 type: "publication"
 ---
