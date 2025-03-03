@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceedings :bookmark_tabs:"
+title: "Conference Proceedings"
 collection: Publication
 permalink: /publications/conference_proceedings
 type: "publication"
