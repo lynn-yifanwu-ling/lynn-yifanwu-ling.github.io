@@ -1,7 +1,5 @@
 ---
-title: |
-  2025 Spring -- LING1101/COGSCI1101:   
-  Introduction to Linguistics
+title: "2025 Spring -- LING1101/COGSCI1101: Introduction to Linguistics"
 collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2025-spring
