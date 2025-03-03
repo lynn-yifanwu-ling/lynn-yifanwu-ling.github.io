@@ -1,8 +1,8 @@
 ---
 title: "Conference Proceedings"
-collection: talks
+collection: publications
 permalink: /publications/conference_proceedings
-type: "Talk"
+type: "Publication"
 ---
 
 :bookmark_tabs: **Yifan Wu** and Helena Aparicio (Forthcoming). First-person metalinguistic disagreements update the standard of precision, both up and down. *Proceedings of the 35th Semantics and Linguistics Theory (SALT35)*. <br>
