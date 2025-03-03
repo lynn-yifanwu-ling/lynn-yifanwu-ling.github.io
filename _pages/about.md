@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: '<span style="color: #B57EDC;">7</span>'
+title: '<span style="color: #B57EDC;">Yifan Wu -- 吴怡凡 -- 7</span>'
 author_profile: true
 redirect_from: 
   - /about/
