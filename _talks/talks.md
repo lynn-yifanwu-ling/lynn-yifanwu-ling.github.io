@@ -1,5 +1,5 @@
 ---
-title: "Conference Talks :microphone:"
+title: "Conference Talks"
 collection: talks
 type: "Talk"
 permalink: /talks/conference_talks
