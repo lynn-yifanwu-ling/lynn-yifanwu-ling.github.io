@@ -1,8 +1,8 @@
 ---
 title: "Edited Volumes"
-collection: talks
+collection: publications
 permalink: /publications/edited_volumes
-type: "Talk"
+type: "Publication"
 ---
 
 :scroll: *Proceedings of the 34th Semantics and Linguistics Theory (SALT34)*. <br>
