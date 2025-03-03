@@ -1,7 +1,7 @@
 ---
 title: "Edited Volumes"
 collection: talks
-permalink: /publications/edited_volumes
+permalink: /papers/edited_volumes
 type: "Talk"
 ---
 
