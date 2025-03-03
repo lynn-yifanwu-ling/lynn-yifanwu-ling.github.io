@@ -1,14 +1,14 @@
 ---
 title: "2025 Spring - LING1101/COGSCI1101: Introduction to Linguistics"
 collection: teaching
-type: "Graduate Teaching Assistant, Cornell University, Department of Linguistics, 2024"
+type: "Graduate Teaching Assistant
 permalink: /teaching/2025-spring
 venue: "Cornell University, Department of Linguistics"
-date: "2025"
+date: 2025
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Instructor**: Dr. Ryan Windhearn
 
 Heading 1
 ======
