@@ -1,5 +1,5 @@
 ---
-title: "Conference Posters :clipboard:"
+title: "Conference Posters"
 collection: talks
 type: "Talk"
 permalink: /talks/conference_posters
