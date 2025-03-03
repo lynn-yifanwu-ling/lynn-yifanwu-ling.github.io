@@ -1,8 +1,8 @@
 ---
-title: "Conference Talks"
+title: "Conference Talks :microphone:"
 collection: talks
 type: "Talk"
 permalink: /talks/conference_talks
 ---
 
-**Yifan Wu** and Helena Aparicio (Jun, 2024). Disagreements do not automatically update the standard of precision. In *Experiments in Linguistic Meaning (ELM3)*.
+:microphone: Disagreements do not automatically update the standard of precision, in *Experiments in Linguistic Meaning (ELM3)*, Jun, 2024.
