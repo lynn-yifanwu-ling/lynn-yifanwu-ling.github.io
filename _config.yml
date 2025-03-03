@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "<span style='color: #B57EDC;'>Yifan Wu -- 7</span>"
+title                    : "<span style='color: #B57EDC;'>Yifan Wu 7</span>"
 title_separator          : "-"
 name                     : &name "Yifan Wu"
-description              : &description "2nd-year Ph.D. student in Ling @ Cornell, psycholinguistics, computatioanl linguistics, and semantics/pragmatics."
+description              : &description "2nd-year Ph.D. student in Ling @ Cornell, psycholing, comp ling, and semantics/pragmatics."
 url                      : https://unnamed-r-eina.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "unnamed-r-eina/unnamed-r-eina.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "<span style='color: #B57EDC;'>Yifan Wu</span>"
   pronouns         : "she/her"  
-  bio              : "2nd-year PhD student in Ling @ Cornell, psycholinguistics, computatioanl linguistics, and semantics/pragmatics."
+  bio              : "2nd-year PhD student in Ling @ Cornell, psycholing, comp ling, and semantics/pragmatics."
   location         : "Ithaca"
   employer         : "Cornell University"
   uri              : # URL
