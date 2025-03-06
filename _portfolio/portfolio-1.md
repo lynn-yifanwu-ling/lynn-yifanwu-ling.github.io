@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I have a mix of random hobbies. Love music :musical_keyboard: and dancing :dancer:, love travel :airplane: but also enjoy being lazy :sleeping:, love watching movies :movie_camera: and football games :soccer:. Recently, I’ve taken up skiing :skier: and crocheting :yarn: as new hobbies!
