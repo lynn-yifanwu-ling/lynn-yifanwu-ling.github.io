@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "<span style='color: #B57EDC;'>Yifan Wu 7</span>"
+title                    : "<span style='color: #B57EDC;'>Yifan Wu</span>"
 title_separator          : "-"
 name                     : &name "Yifan Wu"
 description              : &description "2nd-year Ph.D. student in Ling @ Cornell, psycholing, comp ling, and semantics/pragmatics."
