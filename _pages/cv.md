@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Access to my CV is off the table for now :joy:
+[Yifan Wu's CV](/files/Yifan Wu_CV.pdf)
