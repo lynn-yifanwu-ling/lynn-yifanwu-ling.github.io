@@ -13,6 +13,4 @@ I am a member of the [Linguistic Meaning (LiMe) Lab](https://lime-lab-cornell.gi
 
 :mailbox_with_mail: Ping me at [yw2578@cornell.edu](yw2578@cornell.edu) if you would like to chat!
 
-You can find my CV here: [Yifan Wu's CV](/cv/).
-
 I have a mix of random hobbies. Love music :musical_keyboard: and dancing :dancer:, love travel :airplane: but also enjoy being lazy :sleeping:, love watching movies :movie_camera: and football games :soccer:. Recently, I’ve taken up skiing :skier: and crocheting :yarn: as new hobbies!
