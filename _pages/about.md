@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: '<span style="color: #B57EDC;">7</span>'
+title : ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<span style="color: #B57EDC;">7</span>
+======
 
 Hi, my name is **<span style="color: #B57EDC;">Yifan Wu</span>**, written as **<span style="color: #B57EDC;">吴怡凡</span>** in Chinese. I’m a second-year Ph.D. student in Linguistics at Cornell University, where I spend most of my time thinking about how we use and interpret language in real-time. My research interests include psycholinguistics, computational linguistics, and semantics/pragmatics. Right now, I am particularly interested in questions revolving around imprecision, scalar inferences, and adaptation. I am also interested in applying computational methods to better understand incremental themes. If any of this sounds interesting, feel free to check out my work in the [Publications](/publications/) and [Talks & Presentations](/talks/) tabs above!
 
