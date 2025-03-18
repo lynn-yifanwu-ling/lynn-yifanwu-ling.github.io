@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# site_theme               : "default"
+site_theme               : "default"
 title                    : "<span style='color: #B57EDC;'>Yifan Wu</span>"
 title_separator          : "-"
 name                     : &name "Yifan Wu"
