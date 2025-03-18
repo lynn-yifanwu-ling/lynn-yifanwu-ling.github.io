@@ -15,5 +15,3 @@ redirect_from:
 I am a member of the [Linguistic Meaning (LiMe) Lab](https://lime-lab-cornell.github.io/) under [Prof. Helena Aparicio](https://lime-lab-cornell.github.io/HelenaWebsite/index.html) and the [Computational Psycholinguistics Discussion Group (C.Psyd)](https://c-psyd.github.io/) under [Prof. Marten van Schijndel](https://vansky.github.io/).
 
 :mailbox_with_mail: Ping me at [yw2578@cornell.edu](yw2578@cornell.edu) if you would like to chat!
-
-I have a mix of random hobbies. Love music :musical_keyboard: and dancing :dancer:, love travel :airplane: but also enjoy being lazy :sleeping:, love watching movies :movie_camera: and football games :soccer:. Recently, I’ve taken up skiing :skier: and crocheting :yarn: as new hobbies!
