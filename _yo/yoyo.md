@@ -1,6 +1,7 @@
 ---
 title: Hi, 你好!
-excerpt: I have a mix of random hobbies. Love music :musical_keyboard: and dancing :dancer:, love travel :airplane: but also enjoy being lazy :sleeping:, love watching movies :movie_camera: and football games :soccer:. Recently, I’ve taken up skiing :skier: and crocheting :yarn: as new hobbies!
+excerpt: Yifan (怡凡) here!
+I have a mix of random hobbies. Love music 🎹 and dancing 💃, love travel ✈️ but also enjoy being lazy 😴, love watching movies 🎥 and football games ⚽. Recently, I’ve taken up skiing ⛷️ and crocheting 🧶 as new hobbies!
 <br>
 <img src="images/Yifan-Wu.jpg">
 ---
