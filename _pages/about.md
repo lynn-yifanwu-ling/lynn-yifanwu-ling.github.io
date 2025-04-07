@@ -14,4 +14,6 @@ redirect_from:
 
 I am a member of the [Linguistic Meaning (LiMe) Lab](https://lime-lab-cornell.github.io/) under [Prof. Helena Aparicio](https://lime-lab-cornell.github.io/HelenaWebsite/index.html) and the [Computational Psycholinguistics Discussion Group (C.Psyd)](https://c-psyd.github.io/) under [Prof. Marten van Schijndel](https://vansky.github.io/).
 
-:mailbox_with_mail: Ping me at [yw2578@cornell.edu](yw2578@cornell.edu) if you would like to chat!
+:mailbox_with_mail: You can contact me at [yw2578@cornell.edu](yw2578@cornell.edu) if you would like to chat!
+
+Recently, I’ve taken up skiing ⛷️ and crocheting 🧶 as new hobbies!
