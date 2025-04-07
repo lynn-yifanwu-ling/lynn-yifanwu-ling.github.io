@@ -1,7 +1,6 @@
 ---
-title: "Teaching"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Graduate Teaching Assistant"
 permalink: /teaching/teaching
 ---
 
