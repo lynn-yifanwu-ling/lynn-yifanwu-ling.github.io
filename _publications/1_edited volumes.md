@@ -6,3 +6,4 @@ type: "Publication"
 ---
 
 :scroll: *Proceedings of the 34th Semantics and Linguistic Theory (SALT 2024)*. University of Rochester. <br>
+:scroll: *Proceedings of the 35th Semantics and Linguistic Theory (SALT 2025)*. Harvard University. <br>
